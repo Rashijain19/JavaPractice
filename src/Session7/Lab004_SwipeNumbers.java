@@ -2,7 +2,7 @@ package Session7;
 
 //Swipe the value of a and b
 
-public class Lab004_swipenumbers {
+public class Lab004_SwipeNumbers {
     public static void main(String[] args) {
        int a = 100;
        int b = 50;
