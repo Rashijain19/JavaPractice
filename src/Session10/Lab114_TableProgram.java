@@ -5,7 +5,6 @@ public class Lab114_TableProgram {
         int num = 18;
         for(int i=1; i<11;i++){
             System.out.println(num+" "+"X"+ " "+i+" "+ "="+" "+num*i);
-
         }
     }
 }
